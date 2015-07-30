@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author DiegoJossué
+ * @author diegofelix
  */
 public interface Calculadora {
     
